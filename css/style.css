@@ -1,0 +1,36 @@
+body {
+    /* background-color: hsl(225, 100%, 94%); */
+    /* background-color: hsl(225, 100%, 98%); */
+    background-color: hsl(225, 100%, 94%);
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.button-color {
+    font-size: 1em;
+    background-color: hsl(245, 75%, 52%);
+    display: block;
+    border-radius: 0.6em;
+    padding: 0.7em 1em;
+}
+.card {
+    border-radius: 1em;
+    border: none;
+}
+
+.card-title {
+    color: hsl(223, 47%, 23%);
+    font-weight: 900;
+}
+
+.card-img-top {
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+}
+.annual-plan {
+    font-weight: 900;
+}
+
+.fw-bold-custom {
+    font-weight: 900;
+}
